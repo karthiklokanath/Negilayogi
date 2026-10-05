@@ -1,0 +1,7 @@
+{
+  "name": "CM Negila Yogi Scheme - MASMS Portal",
+  "description": "Chief Minister Negila Yogi Scheme (Badavaru Bandhu) - Machinery as a Service Management System (GIS-based Mobile & Web Portal) by Department of Agriculture, Government of Karnataka.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
